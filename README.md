@@ -36,7 +36,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/coffee-shop-website.git  
+git clone https://github.com/aabid-2552/prodigy_WD_01.git  
 cd coffee-shop-website  
 File Structure:
 
